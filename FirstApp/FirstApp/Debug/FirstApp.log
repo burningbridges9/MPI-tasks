@@ -1,0 +1,7 @@
+﻿  FirstApp.cpp
+c:\users\rustam\documents\visual studio 2017\projects\mpi projects\firstapp\firstapp\firstapp.cpp(552): warning C4101: localRevArr: неиспользованная локальная переменная
+c:\users\rustam\documents\visual studio 2017\projects\mpi projects\firstapp\firstapp\firstapp.cpp(547): warning C4101: globalSum: неиспользованная локальная переменная
+c:\users\rustam\documents\visual studio 2017\projects\mpi projects\firstapp\firstapp\firstapp.cpp(548): warning C4101: incomingChunk: неиспользованная локальная переменная
+c:\users\rustam\documents\visual studio 2017\projects\mpi projects\firstapp\firstapp\firstapp.cpp(553): warning C4101: st: неиспользованная локальная переменная
+  FirstApp.vcxproj -> C:\Users\Rustam\Documents\Visual Studio 2017\Projects\MPI projects\FirstApp\Debug\FirstApp.exe
+  FirstApp.vcxproj -> C:\Users\Rustam\Documents\Visual Studio 2017\Projects\MPI projects\FirstApp\Debug\FirstApp.pdb (Partial PDB)
